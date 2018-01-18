@@ -6,5 +6,6 @@ public class PriceListing {
 		System.out.println("Pineapple - 3$");
 		System.out.println("Apples - 2$");
 		System.out.println("Tomatos - 2$");
+		System.out.println("Carrot - 2$");
 	}
 }
